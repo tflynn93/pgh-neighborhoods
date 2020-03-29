@@ -3,37 +3,37 @@
   "0": {
     "title": "",
     "content": "404 . Page not found :( . The requested page could not be found. .",
-    "url": "https://tflynn93.github.io//pgh-neighborhoods/404.html",
+    "url": "https://tflynn93.github.io/pgh-neighborhoods/404.html",
     "relUrl": "/404.html"
   }
   ,"1": {
     "title": "About",
     "content": "Testing this out…how does this work? .",
-    "url": "https://tflynn93.github.io//pgh-neighborhoods/about/",
+    "url": "https://tflynn93.github.io/pgh-neighborhoods/about/",
     "relUrl": "/about/"
   }
   ,"2": {
     "title": "Arlington",
     "content": "48 ARLINGTON .",
-    "url": "https://tflynn93.github.io//pgh-neighborhoods/neighborhoods/arlington",
+    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/arlington",
     "relUrl": "/neighborhoods/arlington"
   }
   ,"3": {
     "title": "",
     "content": "",
-    "url": "https://tflynn93.github.io//pgh-neighborhoods/",
+    "url": "https://tflynn93.github.io/pgh-neighborhoods/",
     "relUrl": "/"
   }
   ,"4": {
     "title": "Neighborhoods",
     "content": "Testing nested pages. This is the index .",
-    "url": "https://tflynn93.github.io//pgh-neighborhoods/neighborhoods",
+    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods",
     "relUrl": "/neighborhoods"
   }
   ,"5": {
     "title": "South Side Slopes",
     "content": "Testing this out…how does this work? .",
-    "url": "https://tflynn93.github.io//pgh-neighborhoods/neighborhoods/south-side-slopes",
+    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/south-side-slopes",
     "relUrl": "/neighborhoods/south-side-slopes"
   }
   
