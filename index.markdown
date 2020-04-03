@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+![all-neighborhoods-map](C:\Users\Tim\Documents\pgh-neighborhoods\pgh-neighborhoods\images\all-neighborhoods-map.png)
