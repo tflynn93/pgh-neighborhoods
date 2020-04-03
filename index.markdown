@@ -2,4 +2,4 @@
 layout: home
 ---
 
-![all-neighborhoods-map](\images\all-neighborhoods-map.png)
+![all-neighborhoods-map](/images/all-neighborhoods-map.png)
