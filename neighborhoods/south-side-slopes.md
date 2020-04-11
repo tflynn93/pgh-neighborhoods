@@ -10,7 +10,7 @@ nav_order: 73
 
 ## Overview
 
-![location](../images/south-side-slopes/location.png){:height="450px" width="450px"}
+![location](../images/south-side-slopes/location.png){:height="500px" width="500px"}
 
 The South Side Slopes is located above the South Side Flats, on the hills overlooking the Monongahela River.  They are referred to by locals as "The Slopes", and are known for steep, narrow streets, and many sets of public steps.
 
@@ -24,7 +24,7 @@ Also, due to the difficult terrain there is a decent amount of green and undevel
 
 Public steps are pretty common throughout Pittsburgh, but the South Side Slopes have more of them than any other neighborhood, so I figure I'll devote a section to them here.
 
-<img src="../images/south-side-slopes/steps.jpg" alt="Steps" 	title="Steps between Northview Street and Josephine Street" width="450" />
+<img src="../images/south-side-slopes/steps.jpg" alt="Steps" 	title="Steps between Northview Street and Josephine Street" width="500" />
 
 The steps provide a great way for residents to get up and down the Slopes, and also work well for exercising.  When I'm doing my normal commute to Downtown, I take the stairs shown above to my bus stop.
 
@@ -39,7 +39,7 @@ There has been much written about the steps, so I'll provide some links here tha
 
 ## Highlighted Run
 
-![strava7564861820348355053](../images/south-side-slopes/strava.jpg){:height="450px" width="450px"}
+![strava7564861820348355053](../images/south-side-slopes/strava.jpg){:height="500px" width="500px"}
 
 [View on Strava](https://www.strava.com/activities/3187247266)
 
@@ -49,7 +49,7 @@ Running in the Slopes in general is great.  It really teaches you to not be afra
 
 
 ## Photo Gallery
-<img src="../images/south-side-slopes/south-side-park.jpg" alt="South Side Park" 	title="View from Sterling Street Connector trail" width="450" />
-<img src="../images/south-side-slopes/south-side-park-2.jpg" alt="Bear Den" 	title="South Side Bears youth football team field" width="450" />
-<img src="../images/south-side-slopes/slopes.jpg" alt="Houses" 	title="A view from Arlington Ave looking down on some houses" width="450" />
-<img src="../images/south-side-slopes/slopes-2.jpg" alt="Flynn Way" 	title="My street!" width="450" />
+<img src="../images/south-side-slopes/south-side-park.jpg" alt="South Side Park" title="View from Sterling Street Connector trail" width="500" />
+<img src="../images/south-side-slopes/south-side-park-2.jpg" alt="Bear Den" title="South Side Bears youth football team field" width="500" />
+<img src="../images/south-side-slopes/slopes.jpg" alt="Houses" 	title="A view from Arlington Ave looking down on some houses" width="500" />
+<img src="../images/south-side-slopes/slopes-2.jpg" alt="Flynn Way" title="My street!" width="500" />
