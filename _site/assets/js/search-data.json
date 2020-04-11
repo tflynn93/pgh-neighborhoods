@@ -3,565 +3,565 @@
   "0": {
     "title": "",
     "content": "404 . Page not found :( . The requested page could not be found. .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/404.html",
+    "url": "http://localhost:4000/pgh-neighborhoods/404.html",
     "relUrl": "/404.html"
   }
   ,"1": {
     "title": "About",
     "content": "Testing this out…how does this work? .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/about/",
+    "url": "http://localhost:4000/pgh-neighborhoods/about/",
     "relUrl": "/about/"
   }
   ,"2": {
     "title": "Allegheny Center",
     "content": "allegheny center .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/allegheny-center",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/allegheny-center",
     "relUrl": "/neighborhoods/allegheny-center"
   }
   ,"3": {
     "title": "Allegheny West",
     "content": "allegheny west .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/allegheny-west",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/allegheny-west",
     "relUrl": "/neighborhoods/allegheny-west"
   }
   ,"4": {
     "title": "Allentown",
     "content": "allentown .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/allentown",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/allentown",
     "relUrl": "/neighborhoods/allentown"
   }
   ,"5": {
     "title": "Arlington Heights",
     "content": "arlington heights .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/arlington-heights",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/arlington-heights",
     "relUrl": "/neighborhoods/arlington-heights"
   }
   ,"6": {
     "title": "Arlington",
     "content": "48 ARLINGTON .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/arlington",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/arlington",
     "relUrl": "/neighborhoods/arlington"
   }
   ,"7": {
     "title": "Banksville",
     "content": "banksville .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/banksville",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/banksville",
     "relUrl": "/neighborhoods/banksville"
   }
   ,"8": {
     "title": "Bedford Dwellings",
     "content": "bedford dwellings .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/bedford-dwellings",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/bedford-dwellings",
     "relUrl": "/neighborhoods/bedford-dwellings"
   }
   ,"9": {
     "title": "Beechview",
     "content": "beechview .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/beechview",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/beechview",
     "relUrl": "/neighborhoods/beechview"
   }
   ,"10": {
     "title": "Beltzhoover",
     "content": "beltzhoover .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/beltzhoover",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/beltzhoover",
     "relUrl": "/neighborhoods/beltzhoover"
   }
   ,"11": {
     "title": "Bloomfield",
     "content": "bloomfield .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/bloomfield",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/bloomfield",
     "relUrl": "/neighborhoods/bloomfield"
   }
   ,"12": {
     "title": "Bluff (Uptown)",
     "content": "bluff (uptown) .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/bluff-uptown",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/bluff-uptown",
     "relUrl": "/neighborhoods/bluff-uptown"
   }
   ,"13": {
     "title": "Bon Air",
     "content": "bon air .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/bon-air",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/bon-air",
     "relUrl": "/neighborhoods/bon-air"
   }
   ,"14": {
     "title": "Brighton Heights",
     "content": "brighton heights .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/brighton-heights",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/brighton-heights",
     "relUrl": "/neighborhoods/brighton-heights"
   }
   ,"15": {
     "title": "Brookline",
     "content": "brookline .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/brookline",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/brookline",
     "relUrl": "/neighborhoods/brookline"
   }
   ,"16": {
     "title": "California-Kirkbride",
     "content": "california-kirkbride .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/california-kirkbride",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/california-kirkbride",
     "relUrl": "/neighborhoods/california-kirkbride"
   }
   ,"17": {
     "title": "Carrick",
     "content": "carrick .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/carrick",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/carrick",
     "relUrl": "/neighborhoods/carrick"
   }
   ,"18": {
     "title": "Central Business District",
     "content": "central business district .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/central-business-district",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/central-business-district",
     "relUrl": "/neighborhoods/central-business-district"
   }
   ,"19": {
     "title": "Central Lawrenceville",
     "content": "central lawrenceville .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/central-lawrenceville",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/central-lawrenceville",
     "relUrl": "/neighborhoods/central-lawrenceville"
   }
   ,"20": {
     "title": "Central Northside",
     "content": "central northside .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/central-northside",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/central-northside",
     "relUrl": "/neighborhoods/central-northside"
   }
   ,"21": {
     "title": "Central Oakland",
     "content": "central oakland .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/central-oakland",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/central-oakland",
     "relUrl": "/neighborhoods/central-oakland"
   }
   ,"22": {
     "title": "Chartiers",
     "content": "chartiers .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/chartiers",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/chartiers",
     "relUrl": "/neighborhoods/chartiers"
   }
   ,"23": {
     "title": "Chateau",
     "content": "chateau .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/chateau",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/chateau",
     "relUrl": "/neighborhoods/chateau"
   }
   ,"24": {
     "title": "Crafton Heights",
     "content": "crafton heights .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/crafton-heights",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/crafton-heights",
     "relUrl": "/neighborhoods/crafton-heights"
   }
   ,"25": {
     "title": "Crawford-Roberts",
     "content": "crawford-roberts .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/crawford-roberts",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/crawford-roberts",
     "relUrl": "/neighborhoods/crawford-roberts"
   }
   ,"26": {
     "title": "Duquesne Heights",
     "content": "duquesne heights .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/duquesne-heights",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/duquesne-heights",
     "relUrl": "/neighborhoods/duquesne-heights"
   }
   ,"27": {
     "title": "East Allegheny (Deustchtown)",
     "content": "east allegheny deustchtown .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/east-allegheny-deustchtown",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-allegheny-deustchtown",
     "relUrl": "/neighborhoods/east-allegheny-deustchtown"
   }
   ,"28": {
     "title": "East Carnegie",
     "content": "east carnegie .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/east-carnegie",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-carnegie",
     "relUrl": "/neighborhoods/east-carnegie"
   }
   ,"29": {
     "title": "East Hills",
     "content": "east hills .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/east-hills",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-hills",
     "relUrl": "/neighborhoods/east-hills"
   }
   ,"30": {
     "title": "East Liberty",
     "content": "east liberty .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/east-liberty",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-liberty",
     "relUrl": "/neighborhoods/east-liberty"
   }
   ,"31": {
     "title": "Elliot",
     "content": "elliot .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/elliot",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/elliot",
     "relUrl": "/neighborhoods/elliot"
   }
   ,"32": {
     "title": "Esplen",
     "content": "esplen .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/esplen",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/esplen",
     "relUrl": "/neighborhoods/esplen"
   }
   ,"33": {
     "title": "Fairywood",
     "content": "fairywood .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/fairywood",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/fairywood",
     "relUrl": "/neighborhoods/fairywood"
   }
   ,"34": {
     "title": "Fineview",
     "content": "fineview .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/fineview",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/fineview",
     "relUrl": "/neighborhoods/fineview"
   }
   ,"35": {
     "title": "Friendship",
     "content": "friendship is magic! .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/friendship",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/friendship",
     "relUrl": "/neighborhoods/friendship"
   }
   ,"36": {
     "title": "Garfield",
     "content": "garfield .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/garfield",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/garfield",
     "relUrl": "/neighborhoods/garfield"
   }
   ,"37": {
     "title": "Glen Hazel",
     "content": "glen hazel .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/glen-hazel",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/glen-hazel",
     "relUrl": "/neighborhoods/glen-hazel"
   }
   ,"38": {
     "title": "Greenfield",
     "content": "greenfield .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/greenfield",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/greenfield",
     "relUrl": "/neighborhoods/greenfield"
   }
   ,"39": {
     "title": "Hays",
     "content": "hays .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/hays",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hays",
     "relUrl": "/neighborhoods/hays"
   }
   ,"40": {
     "title": "Hazelwood",
     "content": "hazelwood .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/hazelwood",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hazelwood",
     "relUrl": "/neighborhoods/hazelwood"
   }
   ,"41": {
     "title": "Highland Park",
     "content": "highland park .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/highland-park",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/highland-park",
     "relUrl": "/neighborhoods/highland-park"
   }
   ,"42": {
     "title": "Homewood North",
     "content": "homewood north .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/homewood-north",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/homewood-north",
     "relUrl": "/neighborhoods/homewood-north"
   }
   ,"43": {
     "title": "Homewood South",
     "content": "homewood south .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/homewood-south",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/homewood-south",
     "relUrl": "/neighborhoods/homewood-south"
   }
   ,"44": {
     "title": "Homewood West",
     "content": "homewood west .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/homewood-west",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/homewood-west",
     "relUrl": "/neighborhoods/homewood-west"
   }
   ,"45": {
     "title": "",
     "content": ".",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/",
+    "url": "http://localhost:4000/pgh-neighborhoods/",
     "relUrl": "/"
   }
   ,"46": {
     "title": "Neighborhoods",
     "content": "Testing nested pages. This is the index .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods",
     "relUrl": "/neighborhoods"
   }
   ,"47": {
     "title": "Knoxville",
     "content": "knoxville .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/knoxville",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/knoxville",
     "relUrl": "/neighborhoods/knoxville"
   }
   ,"48": {
     "title": "Larimer",
     "content": "larimer .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/larimer",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/larimer",
     "relUrl": "/neighborhoods/larimer"
   }
   ,"49": {
     "title": "Lincoln-Lemington-Belmar",
     "content": "lincoln-lemington-belmar .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/lincoln-lemington-belmar",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-lemington-belmar",
     "relUrl": "/neighborhoods/lincoln-lemington-belmar"
   }
   ,"50": {
     "title": "Lincoln Place",
     "content": "lincoln place .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/lincoln-place",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-place",
     "relUrl": "/neighborhoods/lincoln-place"
   }
   ,"51": {
     "title": "Lower Lawrenceville",
     "content": "lower lawrenceville .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/lower-lawrenceville",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lower-lawrenceville",
     "relUrl": "/neighborhoods/lower-lawrenceville"
   }
   ,"52": {
     "title": "Manchester",
     "content": "manchester .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/manchester",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/manchester",
     "relUrl": "/neighborhoods/manchester"
   }
   ,"53": {
     "title": "Marshall-Shadeland",
     "content": "marshall-shadeland .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/marshall-shadeland",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/marshall-shadeland",
     "relUrl": "/neighborhoods/marshall-shadeland"
   }
   ,"54": {
     "title": "",
     "content": "middle hill .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/middle-hill",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/middle-hill",
     "relUrl": "/neighborhoods/middle-hill"
   }
   ,"55": {
     "title": "Morningside",
     "content": "morningside .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/morningside",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/morningside",
     "relUrl": "/neighborhoods/morningside"
   }
   ,"56": {
     "title": "Mount Oliver (Pittsburgh)",
     "content": "mount oliver .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/mount-oliver",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver",
     "relUrl": "/neighborhoods/mount-oliver"
   }
   ,"57": {
     "title": "Mount Washington",
     "content": "mount washington .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/mount-washington",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-washington",
     "relUrl": "/neighborhoods/mount-washington"
   }
   ,"58": {
     "title": "New Homestead",
     "content": "new homestead .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/new-homestead",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/new-homestead",
     "relUrl": "/neighborhoods/new-homestead"
   }
   ,"59": {
     "title": "North Oakland",
     "content": "north oakland .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/north-oakland",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/north-oakland",
     "relUrl": "/neighborhoods/north-oakland"
   }
   ,"60": {
     "title": "North Point Breeze",
     "content": "north point breeze .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/north-point-breeze",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/north-point-breeze",
     "relUrl": "/neighborhoods/north-point-breeze"
   }
   ,"61": {
     "title": "North Shore",
     "content": "north shore .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/north-shore",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/north-shore",
     "relUrl": "/neighborhoods/north-shore"
   }
   ,"62": {
     "title": "Northview Heights",
     "content": "northview heights .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/northview-heights",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/northview-heights",
     "relUrl": "/neighborhoods/northview-heights"
   }
   ,"63": {
     "title": "Oakwood",
     "content": "oakwood .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/oakwood",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/oakwood",
     "relUrl": "/neighborhoods/oakwood"
   }
   ,"64": {
     "title": "Overbrook",
     "content": "overbrook .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/overbrook",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/overbrook",
     "relUrl": "/neighborhoods/overbrook"
   }
   ,"65": {
     "title": "Perry North (Observatory Hill)",
     "content": "perry north .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/perry-north",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/perry-north",
     "relUrl": "/neighborhoods/perry-north"
   }
   ,"66": {
     "title": "Perry South (Perry Hilltop)",
     "content": "perry south .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/perry-south",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/perry-south",
     "relUrl": "/neighborhoods/perry-south"
   }
   ,"67": {
     "title": "Point Breeze",
     "content": "point breeze .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/point-breeze",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/point-breeze",
     "relUrl": "/neighborhoods/point-breeze"
   }
   ,"68": {
     "title": "Polish Hill",
     "content": "polish hill .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/polish-hill",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/polish-hill",
     "relUrl": "/neighborhoods/polish-hill"
   }
   ,"69": {
     "title": "Regent Square",
     "content": "regent square .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/regent-square",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/regent-square",
     "relUrl": "/neighborhoods/regent-square"
   }
   ,"70": {
     "title": "Ridgemont",
     "content": "ridgemont .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/ridgemont",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/ridgemont",
     "relUrl": "/neighborhoods/ridgemont"
   }
   ,"71": {
     "title": "Saint Clair",
     "content": "saint clair .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/saint-clair",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/saint-clair",
     "relUrl": "/neighborhoods/saint-clair"
   }
   ,"72": {
     "title": "Shadyside",
     "content": "shadyside .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/shadyside",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/shadyside",
     "relUrl": "/neighborhoods/shadyside"
   }
   ,"73": {
     "title": "Sheraden",
     "content": "sheraden .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/sheraden",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/sheraden",
     "relUrl": "/neighborhoods/sheraden"
   }
   ,"74": {
     "title": "South Oakland",
     "content": "south oakland .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/south-oakland",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-oakland",
     "relUrl": "/neighborhoods/south-oakland"
   }
   ,"75": {
     "title": "South Side Flats",
     "content": "south side flats .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/south-side-flats",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-flats",
     "relUrl": "/neighborhoods/south-side-flats"
   }
   ,"76": {
     "title": "South Side Slopes",
-    "content": "South Side Slopes . Overview . . The South Side Slopes is located above the South Side Flats, on the hills overlooking the Monongahela River. They are referred to by locals as “The Slopes”, and are known for steep, narrow streets, and many sets of public steps. . Some Thoughts . I’ve lived in the Slopes since the summer of 2019, and have really enjoyed my time in this neighborhood. The topography has a great way of keeping people out, so it’s actually surprisingly quiet on my street and I have gotten to know my neighbors quite well. Also, I have found it to be an economically and politically diverse neighborhood, which is refreshing. For every fixed up house with a nice fancy view of Downtown, there is also a family that’s lived here “forever” and hasn’t been priced out. . Also, due to the difficult terrain there is a decent amount of green and undeveloped space. These (usually) steep hillsides provide places for some wildlife to live. It’s not uncommon to see deer, rabbit, and birds in my yard. I have even seen video (but not in person) of a coyote roaming around. With Hays Woods (famous for their bald eagles) not far away, this isn’t that surprising. . The Steps . Public steps are pretty common throughout Pittsburgh, but the South Side Slopes have more of them than any other neighborhood, so I figure I’ll devote a section to them here. . . The steps provide a great way for residents to get up and down the Slopes, and also work well for exercising. When I’m doing my normal commute to Downtown, I take the stairs shown above to my bus stop. . Each year, the South Side Slopes Neighborhood Association puts on StepTrek, an event that showcases the many steps. Details about that event can be found here: http://www.southsideslopes.org/steptrek/ . There has been much written about the steps, so I’ll provide some links here that I found particularly interesting: . https://www.discovertheburgh.com/south-side-slopes/ | http://www.southsideslopes.org/steptrek/church-route/ | http://secretpittsburgh.pitt.edu/node/250 | WESA Steps Story | The_Steps_of_Pittsburgh - Portrait of a City | . Highlighted Run . . View on Strava . This particular run was done on 3/15/2020, and for some reason I decided it would be a good idea to run up Barry/Holt/Eleanor 3 times. I left from home, then went down some stairs to Josephine and looped back up. Mentally, each loop got a little easier, but physically this was a tough one. My main goal was run get 1k elevation in a 5K, but I came up a little short. . Running in the Slopes in general is great. It really teaches you to not be afraid of hills, and South Side Park has some nice trails that I would recommend. Living (and running) here has definitely made me a better hill runner. . Photo Gallery . .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/south-side-slopes",
+    "content": "South Side Slopes . Overview . . The South Side Slopes is located above the South Side Flats, on the hills overlooking the Monongahela River. They are referred to by locals as “The Slopes”, and are known for steep, narrow streets, and many sets of public steps. . Some Thoughts . I’ve lived in the Slopes since the summer of 2019, and have really enjoyed my time in this neighborhood. The topography has a great way of keeping people out, so it’s actually surprisingly quiet on my street and I have gotten to know my neighbors quite well. Also, I have found it to be an economically and politically diverse neighborhood, which is refreshing. For every fixed up house with a nice fancy view of Downtown, there is also a family that’s lived here “forever” and hasn’t been priced out. . Also, due to the difficult terrain there is a decent amount of green and undeveloped space. These (usually) steep hillsides provide places for some wildlife to live. It’s not uncommon to see deer, rabbit, and birds in my yard. I have even seen video (but not in person) of a coyote roaming around. With Hays Woods (famous for their bald eagles) not far away, this isn’t that surprising. . The Steps . Public steps are pretty common throughout Pittsburgh, but the South Side Slopes have more of them than any other neighborhood, so I figure I’ll devote a section to them here. . . The steps provide a great way for residents to get up and down the Slopes, and also work well for exercising. When I’m doing my normal commute to Downtown, I take the stairs shown above to my bus stop. . Each year, the South Side Slopes Neighborhood Association puts on StepTrek, an event that showcases the many steps. Details about that event can be found here: http://www.southsideslopes.org/steptrek/ . There has been much written about the steps, so I’ll provide some links here that I found particularly interesting: . https://www.discovertheburgh.com/south-side-slopes/ | http://www.southsideslopes.org/steptrek/church-route/ | http://secretpittsburgh.pitt.edu/node/250 | 90.5 WESA Steps Story | The Steps of Pittsburgh - Portrait of a City | . Highlighted Run . . View on Strava . This particular run was done on 3/15/2020, and for some reason I decided it would be a good idea to run up Barry/Holt/Eleanor 3 times. I left from home, then went down some stairs to Josephine and looped back up. Mentally, each loop got a little easier, but physically this was a tough one. My main goal was run get 1k elevation in a 5K, but I came up a little short. . Running in the Slopes in general is great. It really teaches you to not be afraid of hills, and South Side Park has some nice trails that I would recommend. Living (and running) here has definitely made me a better hill runner. . Photo Gallery . .",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes",
     "relUrl": "/neighborhoods/south-side-slopes"
   }
   ,"77": {
     "title": "Southshore",
     "content": "southshore .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/southshore",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/southshore",
     "relUrl": "/neighborhoods/southshore"
   }
   ,"78": {
     "title": "Spring Garden",
     "content": "spring garden .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/spring-garden",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/spring-garden",
     "relUrl": "/neighborhoods/spring-garden"
   }
   ,"79": {
     "title": "Spring Hill-City View",
     "content": "spring hill-city view .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/spring-hill-city-view",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/spring-hill-city-view",
     "relUrl": "/neighborhoods/spring-hill-city-view"
   }
   ,"80": {
     "title": "Squirrel Hill North",
     "content": "squirrel hill north .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/squirrel-hill-north",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/squirrel-hill-north",
     "relUrl": "/neighborhoods/squirrel-hill-north"
   }
   ,"81": {
     "title": "Squirrel Hill South",
     "content": "squirrel hill south .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/squirrel-hill-south",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/squirrel-hill-south",
     "relUrl": "/neighborhoods/squirrel-hill-south"
   }
   ,"82": {
     "title": "Stanton Heights",
     "content": "stanton heights .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/stanton-heights",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/stanton-heights",
     "relUrl": "/neighborhoods/stanton-heights"
   }
   ,"83": {
     "title": "Strip District",
     "content": "strip district .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/strip-district",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/strip-district",
     "relUrl": "/neighborhoods/strip-district"
   }
   ,"84": {
     "title": "Summer Hill",
-    "content": "summer hill .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/summer-hill",
+    "content": "Summer Hill . Overview . . Highlighted Run . . View on Strava . Photo Gallery . .",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/summer-hill",
     "relUrl": "/neighborhoods/summer-hill"
   }
   ,"85": {
     "title": "Swisshelm Park",
     "content": "swisshelm park .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/swisshelm-park",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/swisshelm-park",
     "relUrl": "/neighborhoods/swisshelm-park"
   }
   ,"86": {
     "title": "Terrace Village",
     "content": "terrace village .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/terrace-village",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/terrace-village",
     "relUrl": "/neighborhoods/terrace-village"
   }
   ,"87": {
     "title": "Troy Hill",
     "content": "troy hill .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/troy-hill",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/troy-hill",
     "relUrl": "/neighborhoods/troy-hill"
   }
   ,"88": {
     "title": "Upper Hill",
     "content": "upper hill .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/upper-hill",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/upper-hill",
     "relUrl": "/neighborhoods/upper-hill"
   }
   ,"89": {
     "title": "Upper Lawrenceville",
     "content": "upper lawrenceville .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/upper-lawrenceville",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/upper-lawrenceville",
     "relUrl": "/neighborhoods/upper-lawrenceville"
   }
   ,"90": {
     "title": "West End",
     "content": "best end! .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/west-end",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/west-end",
     "relUrl": "/neighborhoods/west-end"
   }
   ,"91": {
     "title": "West Oakland",
     "content": "west oakland .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/west-oakland",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/west-oakland",
     "relUrl": "/neighborhoods/west-oakland"
   }
   ,"92": {
     "title": "Westwood",
     "content": "westwood .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/westwood",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/westwood",
     "relUrl": "/neighborhoods/westwood"
   }
   ,"93": {
     "title": "Windgap",
     "content": "windgap .",
-    "url": "https://tflynn93.github.io/pgh-neighborhoods/neighborhoods/windgap",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/windgap",
     "relUrl": "/neighborhoods/windgap"
   }
   

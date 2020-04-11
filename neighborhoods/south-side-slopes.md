@@ -34,8 +34,8 @@ There has been much written about the steps, so I'll provide some links here tha
 * [https://www.discovertheburgh.com/south-side-slopes/](https://www.discovertheburgh.com/south-side-slopes/)
 * [http://www.southsideslopes.org/steptrek/church-route/](http://www.southsideslopes.org/steptrek/church-route/)
 * [http://secretpittsburgh.pitt.edu/node/250](http://secretpittsburgh.pitt.edu/node/250)
-* [WESA Steps Story](https://www.wesa.fm/post/south-side-slopes-resident-takes-good-care-city-steps#stream/0)
-* [The_Steps_of_Pittsburgh - Portrait of a City](https://www.goodreads.com/book/show/136310.The_Steps_of_Pittsburgh)
+* [90.5 WESA Steps Story](https://www.wesa.fm/post/south-side-slopes-resident-takes-good-care-city-steps#stream/0)
+* [The Steps of Pittsburgh - Portrait of a City](https://www.goodreads.com/book/show/136310.The_Steps_of_Pittsburgh)
 
 ## Highlighted Run
 
