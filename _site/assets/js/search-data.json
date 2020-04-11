@@ -338,7 +338,7 @@
   }
   ,"56": {
     "title": "Mount Oliver (Pittsburgh)",
-    "content": "mount oliver .",
+    "content": "Mount Oliver . Overview . . Highlighted Run . . View on Strava . Photo Gallery . .",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver",
     "relUrl": "/neighborhoods/mount-oliver"
   }
@@ -428,7 +428,7 @@
   }
   ,"71": {
     "title": "Saint Clair",
-    "content": "saint clair .",
+    "content": "Saint Clair . Overview . . Highlighted Run . . View on Strava . Photo Gallery . .",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/saint-clair",
     "relUrl": "/neighborhoods/saint-clair"
   }
