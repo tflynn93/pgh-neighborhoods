@@ -217,580 +217,616 @@
   },"36": {
     "doc": "East Carnegie",
     "title": "East Carnegie",
-    "content": "east carnegie . ",
+    "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-carnegie",
     "relUrl": "/neighborhoods/east-carnegie"
   },"37": {
+    "doc": "East Carnegie",
+    "title": "Overview",
+    "content": ". ",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-carnegie#overview",
+    "relUrl": "/neighborhoods/east-carnegie#overview"
+  },"38": {
+    "doc": "East Carnegie",
+    "title": "Highlighted Run",
+    "content": ". View on Strava . ",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-carnegie#highlighted-run",
+    "relUrl": "/neighborhoods/east-carnegie#highlighted-run"
+  },"39": {
+    "doc": "East Carnegie",
+    "title": "Photo Gallery",
+    "content": ". ",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-carnegie#photo-gallery",
+    "relUrl": "/neighborhoods/east-carnegie#photo-gallery"
+  },"40": {
     "doc": "East Hills",
     "title": "East Hills",
     "content": "east hills . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-hills",
     "relUrl": "/neighborhoods/east-hills"
-  },"38": {
+  },"41": {
     "doc": "East Liberty",
     "title": "East Liberty",
     "content": "east liberty . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/east-liberty",
     "relUrl": "/neighborhoods/east-liberty"
-  },"39": {
+  },"42": {
     "doc": "Elliot",
     "title": "Elliot",
     "content": "elliot . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/elliot",
     "relUrl": "/neighborhoods/elliot"
-  },"40": {
+  },"43": {
     "doc": "Esplen",
     "title": "Esplen",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/esplen",
     "relUrl": "/neighborhoods/esplen"
-  },"41": {
+  },"44": {
     "doc": "Esplen",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/esplen#overview",
     "relUrl": "/neighborhoods/esplen#overview"
-  },"42": {
+  },"45": {
     "doc": "Esplen",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/esplen#highlighted-run",
     "relUrl": "/neighborhoods/esplen#highlighted-run"
-  },"43": {
+  },"46": {
     "doc": "Esplen",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/esplen#photo-gallery",
     "relUrl": "/neighborhoods/esplen#photo-gallery"
-  },"44": {
+  },"47": {
     "doc": "Fairywood",
     "title": "Fairywood",
     "content": "fairywood . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/fairywood",
     "relUrl": "/neighborhoods/fairywood"
-  },"45": {
+  },"48": {
     "doc": "Fineview",
     "title": "Fineview",
     "content": "fineview . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/fineview",
     "relUrl": "/neighborhoods/fineview"
-  },"46": {
+  },"49": {
     "doc": "Friendship",
     "title": "Friendship",
     "content": "friendship is magic! . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/friendship",
     "relUrl": "/neighborhoods/friendship"
-  },"47": {
+  },"50": {
     "doc": "Garfield",
     "title": "Garfield",
     "content": "garfield . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/garfield",
     "relUrl": "/neighborhoods/garfield"
-  },"48": {
+  },"51": {
     "doc": "Glen Hazel",
     "title": "Glen Hazel",
     "content": "glen hazel . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/glen-hazel",
     "relUrl": "/neighborhoods/glen-hazel"
-  },"49": {
+  },"52": {
     "doc": "Greenfield",
     "title": "Greenfield",
     "content": "greenfield . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/greenfield",
     "relUrl": "/neighborhoods/greenfield"
-  },"50": {
+  },"53": {
     "doc": "Hays",
     "title": "Hays",
     "content": "hays . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hays",
     "relUrl": "/neighborhoods/hays"
-  },"51": {
+  },"54": {
     "doc": "Hazelwood",
     "title": "Hazelwood",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hazelwood",
     "relUrl": "/neighborhoods/hazelwood"
-  },"52": {
+  },"55": {
     "doc": "Hazelwood",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hazelwood#overview",
     "relUrl": "/neighborhoods/hazelwood#overview"
-  },"53": {
+  },"56": {
     "doc": "Hazelwood",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hazelwood#highlighted-run",
     "relUrl": "/neighborhoods/hazelwood#highlighted-run"
-  },"54": {
+  },"57": {
     "doc": "Hazelwood",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/hazelwood#photo-gallery",
     "relUrl": "/neighborhoods/hazelwood#photo-gallery"
-  },"55": {
+  },"58": {
     "doc": "Highland Park",
     "title": "Highland Park",
     "content": "highland park . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/highland-park",
     "relUrl": "/neighborhoods/highland-park"
-  },"56": {
+  },"59": {
     "doc": "Homewood North",
     "title": "Homewood North",
     "content": "homewood north . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/homewood-north",
     "relUrl": "/neighborhoods/homewood-north"
-  },"57": {
+  },"60": {
     "doc": "Homewood South",
     "title": "Homewood South",
     "content": "homewood south . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/homewood-south",
     "relUrl": "/neighborhoods/homewood-south"
-  },"58": {
+  },"61": {
     "doc": "Homewood West",
     "title": "Homewood West",
     "content": "homewood west . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/homewood-west",
     "relUrl": "/neighborhoods/homewood-west"
-  },"59": {
+  },"62": {
     "doc": "Neighborhoods",
     "title": "Neighborhoods",
     "content": "Testing nested pages. This is the index . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods",
     "relUrl": "/neighborhoods"
-  },"60": {
+  },"63": {
     "doc": "Knoxville",
     "title": "Knoxville",
     "content": "knoxville . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/knoxville",
     "relUrl": "/neighborhoods/knoxville"
-  },"61": {
+  },"64": {
     "doc": "Larimer",
     "title": "Larimer",
     "content": "larimer . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/larimer",
     "relUrl": "/neighborhoods/larimer"
-  },"62": {
+  },"65": {
     "doc": "Lincoln-Lemington-Belmar",
     "title": "Lincoln-Lemington-Belmar",
     "content": "lincoln-lemington-belmar . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-lemington-belmar",
     "relUrl": "/neighborhoods/lincoln-lemington-belmar"
-  },"63": {
+  },"66": {
     "doc": "Lincoln Place",
     "title": "Lincoln Place",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-place",
     "relUrl": "/neighborhoods/lincoln-place"
-  },"64": {
+  },"67": {
     "doc": "Lincoln Place",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-place#overview",
     "relUrl": "/neighborhoods/lincoln-place#overview"
-  },"65": {
+  },"68": {
     "doc": "Lincoln Place",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-place#highlighted-run",
     "relUrl": "/neighborhoods/lincoln-place#highlighted-run"
-  },"66": {
+  },"69": {
     "doc": "Lincoln Place",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lincoln-place#photo-gallery",
     "relUrl": "/neighborhoods/lincoln-place#photo-gallery"
-  },"67": {
+  },"70": {
     "doc": "Lower Lawrenceville",
     "title": "Lower Lawrenceville",
     "content": "lower lawrenceville . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/lower-lawrenceville",
     "relUrl": "/neighborhoods/lower-lawrenceville"
-  },"68": {
+  },"71": {
     "doc": "Manchester",
     "title": "Manchester",
     "content": "manchester . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/manchester",
     "relUrl": "/neighborhoods/manchester"
-  },"69": {
+  },"72": {
     "doc": "Marshall-Shadeland",
     "title": "Marshall-Shadeland",
     "content": "marshall-shadeland . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/marshall-shadeland",
     "relUrl": "/neighborhoods/marshall-shadeland"
-  },"70": {
+  },"73": {
     "doc": "Morningside",
     "title": "Morningside",
     "content": "morningside . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/morningside",
     "relUrl": "/neighborhoods/morningside"
-  },"71": {
+  },"74": {
     "doc": "Mount Oliver (Pittsburgh)",
     "title": "Mount Oliver",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver#mount-oliver",
     "relUrl": "/neighborhoods/mount-oliver#mount-oliver"
-  },"72": {
+  },"75": {
     "doc": "Mount Oliver (Pittsburgh)",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver#overview",
     "relUrl": "/neighborhoods/mount-oliver#overview"
-  },"73": {
+  },"76": {
     "doc": "Mount Oliver (Pittsburgh)",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver#highlighted-run",
     "relUrl": "/neighborhoods/mount-oliver#highlighted-run"
-  },"74": {
+  },"77": {
     "doc": "Mount Oliver (Pittsburgh)",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver#photo-gallery",
     "relUrl": "/neighborhoods/mount-oliver#photo-gallery"
-  },"75": {
+  },"78": {
     "doc": "Mount Oliver (Pittsburgh)",
     "title": "Mount Oliver (Pittsburgh)",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-oliver",
     "relUrl": "/neighborhoods/mount-oliver"
-  },"76": {
+  },"79": {
     "doc": "Mount Washington",
     "title": "Mount Washington",
     "content": "mount washington . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/mount-washington",
     "relUrl": "/neighborhoods/mount-washington"
-  },"77": {
+  },"80": {
     "doc": "New Homestead",
     "title": "New Homestead",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/new-homestead",
     "relUrl": "/neighborhoods/new-homestead"
-  },"78": {
+  },"81": {
     "doc": "New Homestead",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/new-homestead#overview",
     "relUrl": "/neighborhoods/new-homestead#overview"
-  },"79": {
+  },"82": {
     "doc": "New Homestead",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/new-homestead#highlighted-run",
     "relUrl": "/neighborhoods/new-homestead#highlighted-run"
-  },"80": {
+  },"83": {
     "doc": "New Homestead",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/new-homestead#photo-gallery",
     "relUrl": "/neighborhoods/new-homestead#photo-gallery"
-  },"81": {
+  },"84": {
     "doc": "North Oakland",
     "title": "North Oakland",
     "content": "north oakland . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/north-oakland",
     "relUrl": "/neighborhoods/north-oakland"
-  },"82": {
+  },"85": {
     "doc": "North Point Breeze",
     "title": "North Point Breeze",
     "content": "north point breeze . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/north-point-breeze",
     "relUrl": "/neighborhoods/north-point-breeze"
-  },"83": {
+  },"86": {
     "doc": "North Shore",
     "title": "North Shore",
     "content": "north shore . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/north-shore",
     "relUrl": "/neighborhoods/north-shore"
-  },"84": {
+  },"87": {
     "doc": "Northview Heights",
     "title": "Northview Heights",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/northview-heights",
     "relUrl": "/neighborhoods/northview-heights"
-  },"85": {
+  },"88": {
     "doc": "Northview Heights",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/northview-heights#overview",
     "relUrl": "/neighborhoods/northview-heights#overview"
-  },"86": {
+  },"89": {
     "doc": "Northview Heights",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/northview-heights#highlighted-run",
     "relUrl": "/neighborhoods/northview-heights#highlighted-run"
-  },"87": {
+  },"90": {
     "doc": "Northview Heights",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/northview-heights#photo-gallery",
     "relUrl": "/neighborhoods/northview-heights#photo-gallery"
-  },"88": {
+  },"91": {
     "doc": "Oakwood",
     "title": "Oakwood",
-    "content": "oakwood . ",
+    "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/oakwood",
     "relUrl": "/neighborhoods/oakwood"
-  },"89": {
+  },"92": {
+    "doc": "Oakwood",
+    "title": "Overview",
+    "content": ". ",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/oakwood#overview",
+    "relUrl": "/neighborhoods/oakwood#overview"
+  },"93": {
+    "doc": "Oakwood",
+    "title": "Highlighted Run",
+    "content": ". View on Strava . ",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/oakwood#highlighted-run",
+    "relUrl": "/neighborhoods/oakwood#highlighted-run"
+  },"94": {
+    "doc": "Oakwood",
+    "title": "Photo Gallery",
+    "content": ". ",
+    "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/oakwood#photo-gallery",
+    "relUrl": "/neighborhoods/oakwood#photo-gallery"
+  },"95": {
     "doc": "Overbrook",
     "title": "Overbrook",
     "content": "overbrook . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/overbrook",
     "relUrl": "/neighborhoods/overbrook"
-  },"90": {
+  },"96": {
     "doc": "Perry North (Observatory Hill)",
     "title": "Perry North (Observatory Hill)",
     "content": "perry north . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/perry-north",
     "relUrl": "/neighborhoods/perry-north"
-  },"91": {
+  },"97": {
     "doc": "Perry South (Perry Hilltop)",
     "title": "Perry South (Perry Hilltop)",
     "content": "perry south . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/perry-south",
     "relUrl": "/neighborhoods/perry-south"
-  },"92": {
+  },"98": {
     "doc": "Point Breeze",
     "title": "Point Breeze",
     "content": "point breeze . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/point-breeze",
     "relUrl": "/neighborhoods/point-breeze"
-  },"93": {
+  },"99": {
     "doc": "Polish Hill",
     "title": "Polish Hill",
     "content": "polish hill . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/polish-hill",
     "relUrl": "/neighborhoods/polish-hill"
-  },"94": {
+  },"100": {
     "doc": "Regent Square",
     "title": "Regent Square",
     "content": "regent square . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/regent-square",
     "relUrl": "/neighborhoods/regent-square"
-  },"95": {
+  },"101": {
     "doc": "Ridgemont",
     "title": "Ridgemont",
     "content": "ridgemont . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/ridgemont",
     "relUrl": "/neighborhoods/ridgemont"
-  },"96": {
+  },"102": {
     "doc": "Saint Clair",
     "title": "Saint Clair",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/saint-clair",
     "relUrl": "/neighborhoods/saint-clair"
-  },"97": {
+  },"103": {
     "doc": "Saint Clair",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/saint-clair#overview",
     "relUrl": "/neighborhoods/saint-clair#overview"
-  },"98": {
+  },"104": {
     "doc": "Saint Clair",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/saint-clair#highlighted-run",
     "relUrl": "/neighborhoods/saint-clair#highlighted-run"
-  },"99": {
+  },"105": {
     "doc": "Saint Clair",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/saint-clair#photo-gallery",
     "relUrl": "/neighborhoods/saint-clair#photo-gallery"
-  },"100": {
+  },"106": {
     "doc": "Shadyside",
     "title": "Shadyside",
     "content": "shadyside . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/shadyside",
     "relUrl": "/neighborhoods/shadyside"
-  },"101": {
+  },"107": {
     "doc": "Sheraden",
     "title": "Sheraden",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/sheraden",
     "relUrl": "/neighborhoods/sheraden"
-  },"102": {
+  },"108": {
     "doc": "Sheraden",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/sheraden#overview",
     "relUrl": "/neighborhoods/sheraden#overview"
-  },"103": {
+  },"109": {
     "doc": "Sheraden",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/sheraden#highlighted-run",
     "relUrl": "/neighborhoods/sheraden#highlighted-run"
-  },"104": {
+  },"110": {
     "doc": "Sheraden",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/sheraden#photo-gallery",
     "relUrl": "/neighborhoods/sheraden#photo-gallery"
-  },"105": {
+  },"111": {
     "doc": "South Oakland",
     "title": "South Oakland",
     "content": "south oakland . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-oakland",
     "relUrl": "/neighborhoods/south-oakland"
-  },"106": {
+  },"112": {
     "doc": "South Side Flats",
     "title": "South Side Flats",
     "content": "south side flats . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-flats",
     "relUrl": "/neighborhoods/south-side-flats"
-  },"107": {
+  },"113": {
     "doc": "South Side Slopes",
     "title": "South Side Slopes",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes",
     "relUrl": "/neighborhoods/south-side-slopes"
-  },"108": {
+  },"114": {
     "doc": "South Side Slopes",
     "title": "Overview",
     "content": ". The South Side Slopes is located above the South Side Flats, on the hills overlooking the Monongahela River. They are referred to by locals as “The Slopes”, and are known for steep, narrow streets, and many sets of public steps. ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes#overview",
     "relUrl": "/neighborhoods/south-side-slopes#overview"
-  },"109": {
+  },"115": {
     "doc": "South Side Slopes",
     "title": "Some Thoughts",
     "content": "I’ve lived in the Slopes since the summer of 2019, and have really enjoyed my time in this neighborhood. The topography has a great way of keeping people out, so it’s actually surprisingly quiet on my street and I have gotten to know my neighbors quite well. Also, I have found it to be an economically and politically diverse neighborhood, which is refreshing. For every fixed up house with a nice fancy view of Downtown, there is also a family that’s lived here “forever” and hasn’t been priced out. Also, due to the difficult terrain there is a decent amount of green and undeveloped space. These (usually) steep hillsides provide places for some wildlife to live. It’s not uncommon to see deer, rabbit, and birds in my yard. I have even seen video (but not in person) of a coyote roaming around. With Hays Woods (famous for their bald eagles) not far away, this isn’t that surprising. ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes#some-thoughts",
     "relUrl": "/neighborhoods/south-side-slopes#some-thoughts"
-  },"110": {
+  },"116": {
     "doc": "South Side Slopes",
     "title": "The Steps",
     "content": "Public steps are pretty common throughout Pittsburgh, but the South Side Slopes have more of them than any other neighborhood, so I figure I’ll devote a section to them here. The steps provide a great way for residents to get up and down the Slopes, and also work well for exercising. When I’m doing my normal commute to Downtown, I take the stairs shown above to my bus stop. Each year, the South Side Slopes Neighborhood Association puts on StepTrek, an event that showcases the many steps. Details about that event can be found here: http://www.southsideslopes.org/steptrek/ . There has been much written about the steps, so I’ll provide some links here that I found particularly interesting: . | https://www.discovertheburgh.com/south-side-slopes/ | http://www.southsideslopes.org/steptrek/church-route/ | http://secretpittsburgh.pitt.edu/node/250 | 90.5 WESA Steps Story | The Steps of Pittsburgh - Portrait of a City | . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes#the-steps",
     "relUrl": "/neighborhoods/south-side-slopes#the-steps"
-  },"111": {
+  },"117": {
     "doc": "South Side Slopes",
     "title": "Highlighted Run",
     "content": ". View on Strava . This particular run was done on 3/15/2020, and for some reason I decided it would be a good idea to run up Barry/Holt/Eleanor 3 times. I left from home, then went down some stairs to Josephine and looped back up. Mentally, each loop got a little easier, but physically this was a tough one. My main goal was run get 1k elevation in a 5K, but I came up a little short. Running in the Slopes in general is great. It really teaches you to not be afraid of hills, and South Side Park has some nice trails that I would recommend. Living (and running) here has definitely made me a better hill runner. ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes#highlighted-run",
     "relUrl": "/neighborhoods/south-side-slopes#highlighted-run"
-  },"112": {
+  },"118": {
     "doc": "South Side Slopes",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/south-side-slopes#photo-gallery",
     "relUrl": "/neighborhoods/south-side-slopes#photo-gallery"
-  },"113": {
+  },"119": {
     "doc": "Southshore",
     "title": "Southshore",
     "content": "southshore . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/southshore",
     "relUrl": "/neighborhoods/southshore"
-  },"114": {
+  },"120": {
     "doc": "Spring Garden",
     "title": "Spring Garden",
     "content": "spring garden . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/spring-garden",
     "relUrl": "/neighborhoods/spring-garden"
-  },"115": {
+  },"121": {
     "doc": "Spring Hill-City View",
     "title": "Spring Hill-City View",
     "content": "spring hill-city view . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/spring-hill-city-view",
     "relUrl": "/neighborhoods/spring-hill-city-view"
-  },"116": {
+  },"122": {
     "doc": "Squirrel Hill North",
     "title": "Squirrel Hill North",
     "content": "squirrel hill north . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/squirrel-hill-north",
     "relUrl": "/neighborhoods/squirrel-hill-north"
-  },"117": {
+  },"123": {
     "doc": "Squirrel Hill South",
     "title": "Squirrel Hill South",
     "content": "squirrel hill south . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/squirrel-hill-south",
     "relUrl": "/neighborhoods/squirrel-hill-south"
-  },"118": {
+  },"124": {
     "doc": "Stanton Heights",
     "title": "Stanton Heights",
     "content": "stanton heights . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/stanton-heights",
     "relUrl": "/neighborhoods/stanton-heights"
-  },"119": {
+  },"125": {
     "doc": "Strip District",
     "title": "Strip District",
     "content": "strip district . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/strip-district",
     "relUrl": "/neighborhoods/strip-district"
-  },"120": {
+  },"126": {
     "doc": "Summer Hill",
     "title": "Summer Hill",
     "content": " ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/summer-hill",
     "relUrl": "/neighborhoods/summer-hill"
-  },"121": {
+  },"127": {
     "doc": "Summer Hill",
     "title": "Overview",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/summer-hill#overview",
     "relUrl": "/neighborhoods/summer-hill#overview"
-  },"122": {
+  },"128": {
     "doc": "Summer Hill",
     "title": "Highlighted Run",
     "content": ". View on Strava . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/summer-hill#highlighted-run",
     "relUrl": "/neighborhoods/summer-hill#highlighted-run"
-  },"123": {
+  },"129": {
     "doc": "Summer Hill",
     "title": "Photo Gallery",
     "content": ". ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/summer-hill#photo-gallery",
     "relUrl": "/neighborhoods/summer-hill#photo-gallery"
-  },"124": {
+  },"130": {
     "doc": "Swisshelm Park",
     "title": "Swisshelm Park",
     "content": "swisshelm park . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/swisshelm-park",
     "relUrl": "/neighborhoods/swisshelm-park"
-  },"125": {
+  },"131": {
     "doc": "Terrace Village",
     "title": "Terrace Village",
     "content": "terrace village . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/terrace-village",
     "relUrl": "/neighborhoods/terrace-village"
-  },"126": {
+  },"132": {
     "doc": "Troy Hill",
     "title": "Troy Hill",
     "content": "troy hill . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/troy-hill",
     "relUrl": "/neighborhoods/troy-hill"
-  },"127": {
+  },"133": {
     "doc": "Upper Hill",
     "title": "Upper Hill",
     "content": "upper hill . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/upper-hill",
     "relUrl": "/neighborhoods/upper-hill"
-  },"128": {
+  },"134": {
     "doc": "Upper Lawrenceville",
     "title": "Upper Lawrenceville",
     "content": "upper lawrenceville . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/upper-lawrenceville",
     "relUrl": "/neighborhoods/upper-lawrenceville"
-  },"129": {
+  },"135": {
     "doc": "West End",
     "title": "West End",
     "content": "best end! . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/west-end",
     "relUrl": "/neighborhoods/west-end"
-  },"130": {
+  },"136": {
     "doc": "West Oakland",
     "title": "West Oakland",
     "content": "west oakland . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/west-oakland",
     "relUrl": "/neighborhoods/west-oakland"
-  },"131": {
+  },"137": {
     "doc": "Westwood",
     "title": "Westwood",
     "content": "westwood . ",
     "url": "http://localhost:4000/pgh-neighborhoods/neighborhoods/westwood",
     "relUrl": "/neighborhoods/westwood"
-  },"132": {
+  },"138": {
     "doc": "Windgap",
     "title": "Windgap",
     "content": "windgap . ",
